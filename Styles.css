@@ -99,6 +99,10 @@ form{
     opacity: 0.5;
 }
 
+input:-webkit-autofill::first-line {
+  font-size: 2em;
+}
+
 
 
 #remember{
